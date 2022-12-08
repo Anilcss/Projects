@@ -1,0 +1,190 @@
+#page1
+{
+    background-image: url(https://images.unsplash.com/photo-1481833761820-0509d3217039?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#nb
+{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.505);
+}
+li,ul
+{
+    margin-left: 30px;
+    color:rgb(192, 162, 162);
+    display: flex;
+    text-decoration: none;
+   
+}
+li:hover
+{
+    color: white;
+}
+#bt
+{
+    margin-left: 700px;
+    background-color: transparent;
+    border: 2px solid bisque;
+    border-radius: 8mm ;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    color: white;
+    
+}
+#bt:hover
+{
+    background-color: rgba(189, 69, 69, 0.617);
+}
+#page2
+{
+    background-color: black;
+    display: flex;
+}
+h1
+{
+    color: white;
+
+}
+p
+{
+    color: wheat;
+    font-size: large;
+    margin-left: 10px;
+}
+i
+{
+    color: orange;
+    font-size: 12mm;
+}
+#brd
+{
+    margin-left: 40px;
+    
+}
+#btn
+{
+    margin-left: 20px;
+    display: flex;
+    
+}
+#btn1
+{
+    margin-left: 20px;
+    background-color: transparent;
+    border: 2px solid brown;
+    border-radius: 8mm;
+    padding: 20px;
+    color: white;
+    font-size: larger;
+}
+#btn1:hover
+{
+    background-color: rgba(199, 186, 35, 0.572);
+}
+#cont1
+{
+    text-align: center;
+    margin-top: 150px;
+    
+}
+#p2c
+{
+    color: white;
+}
+#img1
+{
+    background-image: url();
+   
+    
+}
+#menu
+{
+    display: flex;
+    background-color: black;
+}
+
+#img1
+{
+    border-radius: 50%;
+    border: 2px solid white;
+}
+#cnt1
+{
+    color: white;
+    
+}
+#a1
+{
+    display: flex;
+}
+#img2
+{
+    border-radius: 50%;
+    border: 2px solid white;
+}
+#a2
+{
+    display: flex;
+    margin-top: 20px;
+}
+#b1,#b2
+{
+    display: flex;
+    margin-top: 20px;
+}
+#img3
+{
+    border-radius: 50%;
+    border: 2px solid white;
+}
+#b
+{
+    margin-left: 150px;
+}
+#menufd
+{
+    background-color: black;
+    display: flex;
+}
+#foodlist
+{
+    display: inline;
+}
+h5
+{
+    color: gold;
+    padding: 20px;
+    font-size: larger;
+}
+h5:hover
+{
+    background-color: rgba(135, 207, 235, 0.493);
+}
+#img22
+{
+    border: 2px solid white;
+    border-radius: 50%;
+
+}
+#formabt
+{
+    background-color: black;
+}
+#na
+{
+    height: 40px;
+    width: 150px;
+    margin: 50px;
+    background-color: rgba(214, 203, 181, 0.244);
+    color: white;
+    font-size: large;
+}
+::placeholder
+{
+    color: rgba(255, 255, 255, 0.433);
+    text-align: center;
+}
